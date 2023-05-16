@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopilotTest", "CopilotTest\CopilotTest.csproj", "{53CCF8C2-6847-4F40-90BC-C6F54947EB6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopilotUseCases", "CopilotUseCases\CopilotUseCases.csproj", "{B63976A2-7659-4DE9-9536-C02E627479C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53CCF8C2-6847-4F40-90BC-C6F54947EB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CCF8C2-6847-4F40-90BC-C6F54947EB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CCF8C2-6847-4F40-90BC-C6F54947EB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CCF8C2-6847-4F40-90BC-C6F54947EB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B63976A2-7659-4DE9-9536-C02E627479C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63976A2-7659-4DE9-9536-C02E627479C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63976A2-7659-4DE9-9536-C02E627479C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63976A2-7659-4DE9-9536-C02E627479C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {075C0597-8A4D-458C-B5D6-1408964475B6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\bin\Debug\net7.0\CopilotUseCases.exe
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\bin\Debug\net7.0\CopilotUseCases.deps.json
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\bin\Debug\net7.0\CopilotUseCases.runtimeconfig.json
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\bin\Debug\net7.0\CopilotUseCases.dll
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\bin\Debug\net7.0\CopilotUseCases.pdb
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\obj\Debug\net7.0\CopilotUseCases.csproj.AssemblyReference.cache
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\obj\Debug\net7.0\CopilotUseCases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\obj\Debug\net7.0\CopilotUseCases.AssemblyInfoInputs.cache
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\obj\Debug\net7.0\CopilotUseCases.AssemblyInfo.cs
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\obj\Debug\net7.0\CopilotUseCases.csproj.CoreCompileInputs.cache
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\obj\Debug\net7.0\CopilotUseCases.dll
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\obj\Debug\net7.0\refint\CopilotUseCases.dll
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\obj\Debug\net7.0\CopilotUseCases.pdb
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\obj\Debug\net7.0\CopilotUseCases.genruntimeconfig.cache
+D:\Workflow\Copilot\CopilotTest\CopilotUseCases\obj\Debug\net7.0\ref\CopilotUseCases.dll
